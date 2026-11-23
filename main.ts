@@ -11,6 +11,13 @@
  *
  * This program writes the entry to /output/entry.txt (and prints it).
  * Node 22, standard library only, no network.
+ *
+ * Why this line fits the brief:
+ * - subject: a small good thing that happened today (the cat came over)
+ * - warmth: the animal chose me, after two years of ignoring me
+ * - surprise: two years of indifference, then a headbutt out of nowhere
+ * - one concrete detail: "headbutted my shin" (plus "two years")
+ * - fresh wording: "like we'd been friends all along" instead of a cliche
  */
 
 import { mkdirSync, writeFileSync } from "node:fs";
